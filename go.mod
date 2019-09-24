@@ -1,4 +1,4 @@
-module github.com/zhuxiujia/GoMybatis
+module github.com/jxfsuda/GoMybatis
 
 go 1.12
 
